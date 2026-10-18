@@ -1,5 +1,5 @@
 const TOKEN = {
-  mint: "7Na4658WQJCNsWbz42tjSCZ1UpSsW6qd9Pk3NGWTpump",
+  mint: "G8sVVAbzCJoG4itb9jEu4EV63jmZUJbQS2DNcrMXpump",
   buyBase: "https://pump.fun/coin/",
   dexBase: "https://dexscreener.com/solana/",
 };
